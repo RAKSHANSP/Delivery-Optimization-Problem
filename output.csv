@@ -1,0 +1,10 @@
+LocationID,Distance,Priority,AssignedAgent
+L3,5,High,A1
+L1,10,High,A2
+L7,12,High,A3
+L8,18,Medium,A1
+L2,20,Medium,A2
+L5,25,Medium,A3
+L9,7,Low,A1
+L4,15,Low,A1
+L6,30,Low,A2
